@@ -1,9 +1,9 @@
 [submodule "Utils"]
 	path = Utils
-	url = https://github.com/ThreeRhinosInAnElephantCostume/Carcassonne-Utils.git
+	url = https://github.com/RedOrbweaver/Utils.git
 [submodule "Networking"]
 	path = Networking
-	url = https://github.com/ThreeRhinosInAnElephantCostume/Carcassonne-Networking.git
+	url = https://github.com/RedOrbweaver/Networking.git
 [submodule "Engine"]
 	path = Engine
-	url = https://github.com/ThreeRhinosInAnElephantCostume/Carcassonne-Engine.git
+	url = https://github.com/RedOrbweaver/Engine.git
